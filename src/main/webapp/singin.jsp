@@ -16,7 +16,7 @@
 <label for="password">Password:</label>
 <input  name="password" type="password"><br><br>
 
-<input  name="Submit" value="submit">
+<input  name="Submit" type="submit">
 
 
 
